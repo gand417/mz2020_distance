@@ -19,9 +19,8 @@ void setup() {
   
   // Inizialize Neopixel LED strip
   strip.begin();
-  strip.setBrightness(255);
   strip.show(); // Initialize all pixels to 'off'
-
+  strip.setBrightness(255);
 }
 
 // Global variable to keep track of proximity reading
