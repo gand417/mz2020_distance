@@ -2,7 +2,7 @@
 
 ![Proximity sensor demo](mz2020_proximity.gif)
 
-## Features
+## Features
 - Periodically read the APDS9960 proximity sensor
 - Control the MK2020 badge lights accordingly
 
