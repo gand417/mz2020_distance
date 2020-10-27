@@ -1,10 +1,10 @@
-# Make Faire 2020 APDS9960 proximity sensor demo.
+# Make Zurich 2020 APDS9960 proximity sensor demo
 
 ![Proximity sensor demo](mz2020_proximity.gif)
 
 ## Features
 - Periodically read the APDS9960 proximity sensor
-- Control the MK2020 badge lights accordingly
+- Control the MZ2020 badge lights accordingly
 
 ## Requirements 
 Depends on the following Arduino libraries to be installed 
